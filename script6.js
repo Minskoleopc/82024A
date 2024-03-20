@@ -14,7 +14,7 @@ switch(city){
 
 // program 2
 // switch case with break statement
-let city2 = "chennai"
+let city2 = "Pune"
 switch(city2){
     case "pune":
         console.log("MH")
@@ -53,9 +53,9 @@ switch(city2){
 let a1 = 10
 let a2 = 50 
 let a3 = 30
-let greatest = true
+//let greatest = true
 
-switch(greatest){
+switch(true){
     case a1 > a2 && a1 > a3:
         console.log("a1 is greater")
         break
