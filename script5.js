@@ -43,7 +43,6 @@ let marks = 56
 //     console.log("Grade C")
 // }
 
-
 if (marks > 90) {
     console.log("Grade A")
 }
@@ -103,7 +102,6 @@ s > t ? console.log("s is greater"):console.log("t  is greater")
 
 
 // program 6
-
 let age = 17
 let q1 = age >= 18 ?"can drive":"cannot drive"
 console.log(q1)
