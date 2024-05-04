@@ -153,3 +153,4 @@ console.log(states.slice(1,-1))
 console.log(states.slice(-1,-3))
 
 // 7 days ------ 28 minutes 
+
